@@ -27,4 +27,4 @@ This application was created by Brian Moura with the assistance of Ta's, Tutors,
 None
 
 ## Features
-Node.js, OOP, npm
+Node.js, jest, inquirer
