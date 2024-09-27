@@ -1,6 +1,6 @@
 # SVG-Logo-Maker
 
-## Video Walkthrough (View Raw)
+## Video Walkthrough
 
 
 ## Description
@@ -13,7 +13,9 @@ This assignment asked for the creation of a SVG generator that would design a lo
 - [License](#license)
 
 ## Installation
-You will need to clone this repo's SSH keys. From there, you will open this app with your IDE. In your terminal, type in "node index.js" and answer the prompts.
+Open this app with your IDE. 
+Install dependencies, npm i
+Then type in "npm run start" and answer the prompts.
 
 ## Usage
 By answering four questions, this application allows the user to easily create a logo with 2-3 characters, customizable colors, and choose a logo shape.
